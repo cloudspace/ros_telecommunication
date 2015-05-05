@@ -3,4 +3,7 @@
 	url = git@github.com:cloudspace/rosserial_java.git
 [submodule "Resources/rosjava_audio"]
 	path = Resources/rosjava_audio
-	url = git@github.com:cloudspace/rosjava_audio
+	url = git@github.com:cloudspace/rosjava_audio_module.git
+[submodule "Resources/rosjava_video"]
+        path = Resources/rosjava_video
+        url = git@github.com:cloudspace/rosjava_video_module.git
